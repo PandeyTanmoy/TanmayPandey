@@ -22,12 +22,12 @@
 
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://TanmayPandey.me" class="padded"><img align="left" alt="https://TanmayPandey.me" width="28px" src="./res/website.png" /></a> 
-<a href="https://instagram.com/_TanmayPandey" class="padded"><img align="left" alt="xditya" width="28px" src="./res/insta.png" /></a> 
+<a href="https://instagram.com/_TanmayPandey" class="padded"><img align="left" alt="xditya" width="28px" src="./res/inst.png" /></a> 
 <a href="https://telegram.dog/Hustle_XY" class="padded"><img align="left" alt="Tanmay" width="28px" src="./res/telegram.png" /></a> 
 <a href="https://twitter.com/_TanmayPandey" class="padded"><img align="left" alt="Tanmay" width="28px" src="./res/twitter.png" /></a> 
 </br>
 
 ---
 
-
+#Support Me
 <a href="https://www.buymeacoffee.com/TanmayPandey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
