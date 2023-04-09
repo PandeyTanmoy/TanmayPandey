@@ -1,6 +1,6 @@
 ## Hi, I'm [Tanmay](https://TanmayPandey.me) 
 [![Profile views](https://komarev.com/ghpvc/?username=PandeyTanmoy&label=Profile%20views&style=for-the-badge)](https://github.com/PandeyTanmoy)
-- 💫 I’m currently working on Nothing
+- 💫 I’m currently working on Nothing! LOL
 - 📫 [Connect with me](#-connect-with-me).
 - ⚡ Always ready to help!
 ---
@@ -29,5 +29,5 @@
 
 ---
 
-#Support Me
+## Support Me
 <a href="https://www.buymeacoffee.com/TanmayPandey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
