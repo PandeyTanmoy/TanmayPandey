@@ -13,7 +13,9 @@
 ---
 ## 📊 Stats
 
-[![Metrics](./github-metrics.svg)](https://TanmayPandey.me)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PandeyTanmoy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="PandeyTanmoy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PandeyTanmoy&show_icons=true&theme=tokyonight&locale=en" alt="PandeyTanmoy" /></p>
 
 ---
 ## 🔗 Connect with me
