@@ -29,6 +29,13 @@
 
 ---
 
+---
+
+## 🎵 Now playing
+
+[![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/track/3xINh6YqkLfucEtjoa4x7D?si=c677fdeaa1a04504)
+
+
 ## Support Me
 
 <a href="https://www.buymeacoffee.com/TanmayPandey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
