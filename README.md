@@ -38,3 +38,5 @@
 ---
 
 <a href="https://www.buymeacoffee.com/TanmayPandey" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+[![An image of @tanmaypandey's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanmaypandey)](https://holopin.io/@tanmaypandey)
